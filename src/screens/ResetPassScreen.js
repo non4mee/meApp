@@ -6,9 +6,9 @@ function ResetPassScreen() {
   return (
 
       <View style={styles.block}>
-
+        <Text>dfsdfds</Text>
       </View>
-    
+
   )
 }
 
